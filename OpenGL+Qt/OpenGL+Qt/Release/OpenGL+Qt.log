@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/3/7 22:42:05。
+     1>项目“D:\USER\Desktop\Qt Learning  Projects\OpenGL+Qt\OpenGL+Qt\OpenGL+Qt.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing myglwidget.h...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_myglwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_myglwidget.cpp, GeneratedFiles\Release\moc_myglwidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_myopengl.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_myopengl.cpp, GeneratedFiles\Release\moc_myopengl.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtOpenGL /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtSerialPort /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_SERIALPORT_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_myglwidget.cpp myglwidget.cpp
+         moc_myglwidget.cpp
+         myglwidget.cpp
+     1>myglwidget.cpp(59): error C3861: “updateGL”:  找不到标识符
+         正在生成代码...
+     1>已完成生成项目“D:\USER\Desktop\Qt Learning  Projects\OpenGL+Qt\OpenGL+Qt\OpenGL+Qt.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.02
