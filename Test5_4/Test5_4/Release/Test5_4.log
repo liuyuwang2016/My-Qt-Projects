@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/3/21 15:19:45。
+     1>项目“D:\USER\Desktop\Qt Learning  Projects\Test5_4\Test5_4\Test5_4.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing test5_4.h...
+         Uic'ing test5_4.ui...
+         Rcc'ing test5_4.qrc...
+     1>RCC : warning : No resources in 'D:\USER\Desktop\Qt Learning  Projects\Test5_4\Test5_4\test5_4.qrc'.
+         
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_test5_4.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_test5_4.cpp, GeneratedFiles\Release\moc_test5_4.cpp.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtOpenGL /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_test5_4.cpp
+         qrc_test5_4.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtOpenGL /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Release\moc_test5_4.cpp main.cpp test5_4.cpp
+         moc_test5_4.cpp
+         main.cpp
+         test5_4.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\USER\Desktop\Qt Learning  Projects\Test5_4\Win32\Release\\Test5_4.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.6.0\5.6\msvc2013\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5OpenGL.lib opengl32.lib glu32.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"D:\USER\Desktop\Qt Learning  Projects\Test5_4\Win32\Release\Test5_4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\USER\Desktop\Qt Learning  Projects\Test5_4\Win32\Release\Test5_4.lib" /MACHINE:X86 /SAFESEH Release\qrc_test5_4.obj
+         Release\moc_test5_4.obj
+         Release\main.obj
+         Release\test5_4.obj
+         Test5_4.vcxproj -> D:\USER\Desktop\Qt Learning  Projects\Test5_4\Win32\Release\Test5_4.exe
+     1>已完成生成项目“D:\USER\Desktop\Qt Learning  Projects\Test5_4\Test5_4\Test5_4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.23
