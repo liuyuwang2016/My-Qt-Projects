@@ -1,0 +1,47 @@
+﻿生成启动时间为 2018/3/13 16:51:48。
+     1>项目“D:\USER\Desktop\Qt Learning  Projects\5-Axis Dispenser Qt UI Interface.20180313\5-Axis Dispenser Qt UI Interface.20180313\5-Axis Dispenser Qt UI Interface.20180313.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_dispenser.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Debug\moc_dispenser.cpp, GeneratedFiles\Release\moc_dispenser.cpp.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.6.0\5.6\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtGui /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtOpenGL /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtSerialPort /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtUiTools /IC:\Qt\Qt5.6.0\5.6\msvc2013\include\QtWidgets /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /clr /nologo /W1 /WX- /O2 /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /D QT_SERIALPORT_LIB /D QT_UITOOLS_LIB /D QT_WIDGETS_LIB /D _MBCS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib dispenser.cpp
+         dispenser.cpp
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(491): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(492): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(493): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(495): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(497): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(499): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(500): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(502): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(503): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(505): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(506): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(507): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(508): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(509): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(511): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(513): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(515): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(517): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(524): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(525): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(526): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(550): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(551): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(552): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>C:\Qt\Qt5.6.0\5.6\msvc2013\include\QtCore/qchar.h(553): warning C4561: “__fastcall”与“/clr”选项不兼容:  转换为“__stdcall”
+     1>dispenser.cpp(52): error C3861: “MtConnect”:  找不到标识符
+     1>dispenser.cpp(53): error C2039: “cout”: 不是“std”的成员
+     1>dispenser.cpp(53): error C2065: “cout”: 未声明的标识符
+     1>dispenser.cpp(56): error C3861: “Sleep”:  找不到标识符
+     1>dispenser.cpp(63): error C2065: “mdr”: 未声明的标识符
+     1>dispenser.cpp(63): error C2228: “.wdt”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>dispenser.cpp(65): error C2065: “mdr”: 未声明的标识符
+     1>dispenser.cpp(65): error C2228: “.wdt”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>dispenser.cpp(65): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“D:\USER\Desktop\Qt Learning  Projects\5-Axis Dispenser Qt UI Interface.20180313\5-Axis Dispenser Qt UI Interface.20180313\5-Axis Dispenser Qt UI Interface.20180313.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.95
